@@ -49,7 +49,7 @@ end
 
 def winner(board)
   index = won?(board)
-  if index == 
+  if index == false
     
     
     
