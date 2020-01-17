@@ -51,7 +51,8 @@ def winner(board)
   index = won?(board)
   if index == false
     return nil
-  elsif index ==   
+  elsif index == (board[win_combo[0]]) == "X"
+  
     
     
     
